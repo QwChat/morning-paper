@@ -5,6 +5,8 @@ QwChat share groups everyday morning paper
 
 # Template
 
+每日早报
+
 ========================================================================
 ## 算法:
 
